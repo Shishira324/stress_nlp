@@ -1,0 +1,12 @@
+# Local Python environments and their machine-specific launchers
+venv/
+.venv/
+
+# Notebook checkpoints and local Streamlit output
+.ipynb_checkpoints/
+streamlit.stdout.log
+streamlit.stderr.log
+
+# Files not used by the Streamlit entrypoint
+*.ipynb
+emotion_sentimen_dataset.csv
