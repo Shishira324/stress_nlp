@@ -7,3 +7,4 @@ scikit-learn==1.4.2
 tensorflow-cpu==2.16.1
 nltk==3.8.1
 wordcloud==1.9.3
+Pillow==10.4.0
